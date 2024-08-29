@@ -1,0 +1,11 @@
+Console API
+
+O objeto console fornece acesso ao console de debug do navegador. 
+
+console:
+.error -> emite uma mensagem de erro para o console
+.clear() -> limpa o console
+.log() -> emite uma mensagem para o console
+.warn() -> emite uma mensagem de aviso para o console
+.count() -> mostra o número de vezes que esta linha foi chamada
+.table() -> exibe dados, como objeto e arrays, como uma tabela

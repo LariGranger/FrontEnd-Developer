@@ -23,3 +23,9 @@ console.log(notaDoJoao < notaDaMaria);
 console.log(notaDoJoao <= notaDaMaria);
 
 //* Operadores lógicos
+//AND (E) &&: retorna true somente se todos os operadores forem verdadeiros
+console.log(true && true);
+//OR (OU) ||: retorna true quando um dos operadores forem verdadeiros
+console.log(true || false);
+//NOT (NÃO) !: inverte o valor do operador
+console.log(!true);
